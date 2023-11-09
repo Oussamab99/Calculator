@@ -16,7 +16,7 @@ Follow these steps to set up the project on your local machine.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/calculator-project.git
+   git clone https://github.com/Oussamab99/Calculator.git
 
 # Usage
 1. Choose an operation from the menu.
